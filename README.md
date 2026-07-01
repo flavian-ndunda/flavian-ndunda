@@ -56,10 +56,10 @@ I build scalable software that solves business challenges across fintech, logist
 
 ## GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=flavian-ndunda&show_icons=true&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=flavian-ndunda&layout=compact&theme=github_dark)
+## Activity
 
+![Snake animation](https://raw.githubusercontent.com/flavian-ndunda/flavian-ndunda/output/github-contribution-grid-snake-dark.svg)
 ![GitHub Streak](https://streak-stats.demolab.com?user=flavian-ndunda&theme=github-dark)
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=flavian-ndunda&theme=github-dark)
