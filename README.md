@@ -1,60 +1,86 @@
-# 👋 Hi, I'm Flavian Ndunda
+# Flavian Ndunda
 
-🚀 Software Engineer | Open Source Contributor
+Software Engineer | Laravel Developer | Open Source Contributor
 
-I build scalable software solutions that solve real-world business challenges across logistics, fintech, eCommerce, and tax compliance.
-
-## 👨‍💻 Expertise
-
-* Laravel & PHP Development
-* SaaS Application Development
-* REST API Design & Integrations
-* Payment Gateway Integrations (M-Pesa, Paystack, Banking APIs)
-* eCommerce Systems
-* Logistics & Delivery Management Platforms
-* Kenya KRA eTIMS Integrations (OSCU/VSCU)
-* Database Design & System Architecture
-
-## 🌱 Currently Learning
-
-* TypeScript
-* Ethical Hacking & Cybersecurity
-* Cloud Infrastructure & DevOps
-* Blockchain Technologies
-* Advanced Software Architecture
-
-## 🔭 Current Projects
-
-* Runyt Express Logistics Platform
-* Laravel eTIMS SDK
-* eTIMS POS Solutions
-* Delivery Management Systems
-* Business Process Automation Platforms
-
-## 🤝 Open to Collaborate On
-
-* Open Source Laravel Projects
-* Cybersecurity & Ethical Hacking Communities
-* Fintech Solutions
-* Logistics Technology
-* SaaS Products
-* Blockchain Projects
-
-## 🏆 Open Source Contributions
-
-* Laravel eTIMS SDK
-* eTIMS POS Integration
-* eTIMS Desktop POS
-* Business Automation Solutions
-
-## 📫 Connect With Me
-
-* Email: [flavianndunda@gmail.com](mailto:flavianndunda@gmail.com)
-* GitHub: github.com/flavian-ndunda
+I build scalable software that solves business challenges across fintech, logistics, eCommerce, enterprise systems, and tax compliance. My current focus is developing open-source tools that help developers build production-ready Laravel applications.
 
 ---
 
-💡 Passionate about building technology that empowers businesses across Africa while continuously expanding my skills in software engineering, cybersecurity, and emerging technologies.
+## About
 
+- Software Engineer from Kenya
+- Building enterprise applications with Laravel and PHP
+- Passionate about open source
+- Interested in Cloud, DevOps, Cybersecurity, and Software Architecture
 
-*"Building technology that solves real African business challenges."*
+---
+
+## Current Projects
+
+- Runyt Express
+- Laravel eTIMS SDK
+- eTIMS POS
+- Enterprise ERP Systems
+- Business Automation Platforms
+
+---
+
+## Tech Stack
+
+**Backend**
+
+- Laravel
+- PHP
+- REST APIs
+
+**Frontend**
+
+- Livewire
+- Alpine.js
+- JavaScript
+- TypeScript (Learning)
+
+**Databases**
+
+- MySQL
+- PostgreSQL
+
+**Infrastructure**
+
+- Docker
+- Linux
+- Nginx
+- GitHub Actions
+
+---
+
+## GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=flavian-ndunda&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=flavian-ndunda&layout=compact&theme=github_dark)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=flavian-ndunda&theme=github-dark)
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=flavian-ndunda&theme=github-dark)
+
+---
+
+## Featured Repositories
+
+- Laravel eTIMS SDK
+- eTIMS POS
+- Runyt Express
+- Business Automation Solutions
+
+---
+
+## Contact
+
+Email: flavianndunda@gmail.com
+
+GitHub: https://github.com/flavian-ndunda
+
+---
+
+> Building technology that solves real business challenges across Africa while contributing to the global open-source community.
